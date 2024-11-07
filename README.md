@@ -13,11 +13,11 @@ Visual components and Python
 ## Experiment:
 ![P7](https://github.com/21005688/Open-Jacson-Networks/assets/94747031/9e252a77-df6b-410c-b22b-2db70a586d97)
 ## Program:
-```
+```python
 DEVELOPED BY : NARAMALA KUMARTEJA
 REGISTER NO : 212223230132
 ```
-```
+```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -58,5 +58,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/2caf7d21-9a37-4a1a-b12c-2767312fc703)
 
 ## Result:
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
